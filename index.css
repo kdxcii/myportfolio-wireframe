@@ -26,7 +26,9 @@ nav {
 }
 
 
-
+ul {
+  list-style-type: none;
+}
 header {
   padding: 12% 0;
 }
